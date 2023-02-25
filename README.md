@@ -3,9 +3,9 @@
 
 🌵 About Me:
 -----------------------------------------
-- ❄️ I'm Arzu Demir
+- ❄️ I'm Arzu Demir..
 
-- 🌱 I'm a junior Software Developer!
+- 🌱 I spend most of my time learning Software!
 
 
 🌐Socials:
