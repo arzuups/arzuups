@@ -12,11 +12,15 @@
 -----------------------------------------
 
 
-<a href="https://twitter.com/arzuusadecee" target="_blank"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank" </a>
-<a href="https://linkedin.com/in/arzuusadecee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arzuusadecee" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/arzu-demir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="arzu-demir" height="30" width="40" /></a>
-<a href="https://instagram.com/arzuusadecee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arzuusadecee" height="30" width="40" /></a>
-<a href="https://medium.com/@arzuusadecee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arzuusadecee" height="30" width="40" /></a>
+<a href="https://instagram.com/arzuusadecee" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://twitter.com/arzuusadecee" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/arzuusadecee" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://open.spotify.com/user/31finxanuy73c7i3gre5v6g7ht4u"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+<a href="https://medium.com/@arzuusadecee" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" /></a>
+<a href="https://www.quora.com/profile/Arzu-Demir-13" target="_blank"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white" target="_blank"></a>
+<a href="https://linktr.ee/arzuusadecee" target="_blank"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
+<a href="mailto:arzudmr2008@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://stackoverflow.com/users/arzu-demir" target="blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank" /></a>
 </p>
 
 💻 Languages and Tools:
