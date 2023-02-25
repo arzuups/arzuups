@@ -3,9 +3,11 @@
 
 🌵 About Me:
 -----------------------------------------
-- ❄️ I'm Arzu Demir..
+- ❄️ I'm Arzu Demir!
 
 - 🌱 I spend most of my time learning Software!
+
+- 🌙 I'm currently learning Algorithms!
 
 
 🌐Socials:
