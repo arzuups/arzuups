@@ -3,7 +3,7 @@
 
 🌵 About Me:
 -----------------------------------------
-- ❄️ I'm Arzu Demir!
+- ❄️ I'm Arzu Demir..
 
 - 🌱 I spend most of my time learning Software!
 
