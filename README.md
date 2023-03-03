@@ -1,5 +1,4 @@
 <h1 align="center">Hi! Welcome The My GitHub Profile👋</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arzuusadecee&label=Profile%20views&color=0e75b6&style=flat" alt="arzuusadecee" /> </p>
 
 🌵 About Me:
 -----------------------------------------
@@ -37,5 +36,7 @@
 🌊 Random Developer Promises:
 ------------------------------------------
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arzuusadecee&label=Profile%20views&color=0e75b6&style=flat" alt="arzuusadecee" /> </p>
 
 
