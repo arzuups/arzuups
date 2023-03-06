@@ -29,16 +29,16 @@
 
 📊 GitHub Stat's:
 ------------------------------------------
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=theArzu&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=theArzuw&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Arzu's GitHub stats](https://github-readme-stats.vercel.app/api?username=theArzu&show_icons=true&theme=radical)
+![Arzu's GitHub stats](https://github-readme-stats.vercel.app/api?username=theArzuw&show_icons=true&theme=radical)
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theArzu&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theArzuw&theme=radical)
 
 🌊 Random Developer Promises:
 ------------------------------------------
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theArzu&label=Profile%20views&color=0e75b6&style=flat" alt="theArzu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=theArzuw&label=Profile%20views&color=0e75b6&style=flat" alt="theArzu" /> </p>
 
 
