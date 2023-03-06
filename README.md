@@ -32,6 +32,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arzuusadecee&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![Arzu's GitHub stats](https://github-readme-stats.vercel.app/api?username=arzuusadecee&show_icons=true&theme=radical)
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arzuusadecee&theme=radical)
 
 🌊 Random Developer Promises:
 ------------------------------------------
