@@ -6,7 +6,7 @@
 
 - 🌱 I spend most of my time learning Software!
 
-- 🌙 I'm currently learning Algorithms!
+- 🔗 I'm currently learning Algorithms!
 
 
 🌐Socials:
@@ -35,9 +35,6 @@
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theArzuw&theme=radical)
 
-🌊 Random Developer Promises:
-------------------------------------------
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theArzuw&label=Profile%20views&color=0e75b6&style=flat" alt="theArzu" /> </p>
 
