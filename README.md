@@ -6,7 +6,7 @@
 
 - 🌱 I spend most of my time learning Software!
 
-- 🔗 I'm currently learning Algorithms!
+- 🔗 I'm currently learning Golang!
 
 
 🌐Socials:
