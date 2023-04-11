@@ -1,6 +1,6 @@
 <h1 align="center">Hi! Welcome The My GitHub Profile👋</h1>
 
-🌵 About Me:
+🌈 About Me:
 -----------------------------------------
 - ✨ I'm Arzu Demir..
 
