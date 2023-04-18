@@ -35,6 +35,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a1zuws&theme=radical)
 
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a1zuws&label=Profile%30views&color=0e75b6&style=flat" alt="theArzu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=a1zuws&label=Profile%20views&color=0e75b6&style=flat" alt="theArzu" /> </p>
 
 
