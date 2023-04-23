@@ -13,8 +13,6 @@
 🌐Socials:
 -----------------------------------------
 
-
-<a href="https://instagram.com/a1zuws" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/a1zuws/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://medium.com/@a1zuws" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" /></a>
 <a href="https://www.quora.com/profile/Arzu-Demir-13" target="_blank"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white" target="_blank"></a>
