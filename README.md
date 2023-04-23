@@ -1,10 +1,9 @@
-<h1 align="center">Hi! Welcome The My GitHub Profile👋</h1>
+<h1 align="center">Hi! I'm Arzu Demir👋</h1>
 
 🌈 About Me:
 -----------------------------------------
-- ✨ I'm Arzu Demir..
 
-- ✨ I spend most of my time learning Software..
+- ✨ I spend most of my time learning **
 
 - ✨ I'm currently learning Golang..
 
