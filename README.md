@@ -7,6 +7,8 @@
 
 - ✨ I'm currently learning *Golang*
 
+- ✨ How to reach me ? My mail adress *arzudmr2008@gmail.com*
+
 
 🌐Socials:
 -----------------------------------------
