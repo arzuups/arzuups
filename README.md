@@ -5,7 +5,7 @@
 
 - ✨ I spend most of my time learning **Golang - Python - Java - Javascript - C#**
 
-- ✨ I'm currently learning *Golang*
+- ✨ I'm currently learning **Golang**
 
 - ✨ How to reach me ? My mail adress *arzudmr2008@gmail.com*
 
