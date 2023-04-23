@@ -3,7 +3,7 @@
 🌈 About Me:
 -----------------------------------------
 
-- ✨ I spend most of my time learning **Golang - Python - Java - Javascript - C#**
+- ✨ I spend most of my time learning **Golang - Python - Java - Javascript**
 
 - ✨ I'm currently learning **Golang**
 
