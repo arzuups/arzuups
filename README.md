@@ -14,6 +14,7 @@
 -----------------------------------------
 
 <a href="https://www.linkedin.com/in/a1zuws/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://open.spotify.com/user/31finxanuy73c7i3gre5v6g7ht4u" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 <a href="https://medium.com/@a1zuws" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" /></a>
 <a href="https://www.quora.com/profile/Arzu-Demir-13" target="_blank"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white" target="_blank"></a>
 <a href="https://linktr.ee/a1zuws" target="_blank"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
