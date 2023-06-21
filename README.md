@@ -12,7 +12,7 @@
 
 🌐Socials:
 -----------------------------------------
-
+<a href="https://www.instagram.com/uppsarzu/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://twitter.com/upsarzu/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://open.spotify.com/user/31finxanuy73c7i3gre5v6g7ht4u" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/a1zuws/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
