@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Arzu Demir👋</h1>
 
-🌈 About Me:
+🌈About Me:
 -----------------------------------------
 
 - ✨ I spend most of my time learning **Golang - Python - Java - Javascript**
