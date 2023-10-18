@@ -3,9 +3,9 @@
 🌈About Me:
 -----------------------------------------
 
-- ✨ I spend most of my time learning **Golang - Python - Java - Javascript**
+- ✨ I spend most of my time learning **Golang - Python - Java - Javascript - React**
 
-- ✨ I'm currently learning **Golang**
+- ✨ I'm currently learning **Golang** and **React**
 
 - ✨ How can you contact me ? My mail adress *arzudmr2008@gmail.com*
 
