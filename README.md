@@ -25,7 +25,7 @@
 -----------------------------------------
 <br/>  
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="38%">
 
 ### Frontend  
 <div align="center">
@@ -35,7 +35,7 @@
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt ="React" height="60"> <img/>
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="38%">
 
  
 ### Backend
@@ -43,7 +43,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Golang" height="60" />
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="38%">
  
  
 ### DevOps
