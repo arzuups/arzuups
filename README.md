@@ -3,7 +3,7 @@
 🌈About Me:
 -----------------------------------------
 
-- ✨ I spend most of my time learning **Html - Css - Javascript**
+- ✨ I spend most of my time learning **Html - Css - JavaScript**
 
 - ✨ I'm currently learning **Html - Css**
 
