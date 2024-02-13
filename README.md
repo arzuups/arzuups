@@ -10,7 +10,7 @@
 - ✨ How can you contact me ? My mail adress *arzudmr2008@gmail.com*
 
 
-🌐Socials:
+# 🌐 Socials:
 -----------------------------------------
 
 <a href="https://twitter.com/arzuups/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
@@ -21,33 +21,17 @@
 <a href="https://stackoverflow.com/users/21285076/arzu-demir" target="blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank" /></a>
 </p>
 
-💻My Skills:
------------------------------------------
-<br/>  
+# 💻 Languages and Tools:
+------------------------------------------
 
-<table><tr><td valign="top" width="38%">
-
-### Frontend  
-<div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="60" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="60" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="60" /> 
-</div>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-
-
-### DevOps
-<div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="60" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="60" />
-</div>
-
-</td></tr></table>  
-
-<br/> 
-
-📊 GitHub Stat's:
+# 📊 GitHub Stat's:
 ------------------------------------------
  
 ![Arzu's GitHub stats](https://github-readme-stats.vercel.app/api?username=arzuups&show_icons=true&theme=radical)
