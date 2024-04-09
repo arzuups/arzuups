@@ -25,7 +25,7 @@
 ------------------------------------------
 
 [![Arzu's Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
-[![Arzu's Skills](https://skillicons.dev/icons?i=figma,vscode,git&theme=light)](https://skillicons.dev)
+[![Arzu's Skills](https://skillicons.dev/icons?i=figma,git&theme=light)](https://skillicons.dev)
 
 
 
