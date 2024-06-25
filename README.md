@@ -5,7 +5,7 @@
 
 - ✨ I spend most of my time learning **Html - Css - JavaScript**
 
-- ✨ I'm currently improving myself on **Html - Css**
+- ✨ I'm currently improving myself in **Html - Css**
 
 - ✨ How can you contact me ? My mail adress *arzudmr2008@gmail.com*
 
