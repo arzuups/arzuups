@@ -12,7 +12,7 @@
 
 # 🌐 Socials:
 ---------------------------------
- href="https://www.linkedin.com/in/arzuups/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
 <a href="https://medium.com/@arzuuddemir" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" /></a>
 <a href="https://linktr.ee/arzuups" target="_blank"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
 <a href="https://stackoverflow.com/users/21285076/arzu-demir" target="blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank" /></a>
